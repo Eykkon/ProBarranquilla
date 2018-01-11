@@ -145,68 +145,15 @@
                         <?php wp_nav_menu(
                                 array(
                                     'container' => false,
-                                    'items_wrap' => '<ul class="mobile-menu nav navbar-nav">%3$s<i class="hover-ind fa fa-caret-down" aria-hidden="true"></i></ul>',
+                                    'items_wrap' => '<ul class="mobile-menu nav navbar-nav">%3$s</ul>',
                                     'theme_location' => 'menu'
                                 ));
                         ?>
-                        <!--
-                        <ul class="mobile-menu nav navbar-nav">
-                            <li class="active"><a href="index.html"><i class="fa fa-home fa-2x"></i></a></li>
-
-                            <li class="dropdown-trigger"><a href="services.html">Territorio <i class="hover-ind fa fa-caret-down" aria-hidden="true"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="services.html">Colombia</a></li>
-                                    <li><a href="single-services-1.html">Barranquilla y su �rea metropolitrana</a></li>
-                                    <li><a href="single-services-2.html">Departamento del atl�ntico</a></li>
-                                    <li><a href="single-services-3.html">Proyectos de cooperaci�n internacional</a></li>
-
-                                </ul>
-                            </li>
-
-                            <li><a href="projects.html">Turismo de negocios y eventos <i class="hover-ind fa fa-caret-down" aria-hidden="true"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="projects-v2.html">Destino ideal para tus eventos</a></li>
-                                    <li><a href="projects.html">�C�mo apoya PROBARRANQUILLA  la realizaci�n y promoci�n de tus eventos?</a></li>
-                                    <li><a href="projects-v3.html">Conoce el destino</a></li>
-                                    <li><a href="projects-v3.html">Agenda de eventos</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="news.html">Inversion <i class="hover-ind fa fa-caret-down" aria-hidden="true"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="news.html">�Por qu� Barranquilla? �Por qu� el Atlantico?</a></li>
-                                    <li><a href="news-v2.html">PROBARRANQUILLA tu aliado en inversi�n</a></li>
-                                    <li><a href="news-v3.html">Oportunidades de inversi�n</a></li>
-                                    <li><a href="single-news.html">Vocaci�n por municipios</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="contact.html">Actualidad  <i class="hover-ind fa fa-caret-down" aria-hidden="true"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="testimonial.html">�Qu� esta pasando?</a></li>
-                                    <li><a href="quote.html">Novedades sobre la entidad</a></li>
-                                    <li><a href="404.html">Blog</a></li>
-                                    <li><a href="testimonial.html">Galeria</a></li>
-                                    <li><a href="quote.html">Revista de destino</a></li>
-                                    <li><a href="404.html">Comunicados de prensa</a></li>
-                                    <li><a href="testimonial.html">Biblioteca</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="contact.html">Quienes Somos  <i class="hover-ind fa fa-caret-down" aria-hidden="true"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="testimonial.html">Institucional</a></li>
-                                    <li><a href="quote.html">Nuestro equipo</a></li>
-                                    <li><a href="404.html">Gobierno corporativo</a></li>
-                                    <li><a href="quote.html">Empresas miembro</a></li>
-                                    <li><a href="404.html">Descargables</a></li>
-                                </ul>
-                            </li>
-
-                        </ul>
-                    </nav>
+                        </nav>
                 </div>
             </div>
         </div>
     </div>
-    -->
     <!-- End Of Bottom Head -->
 </header>
 <!-- /.End Of Header -->

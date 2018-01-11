@@ -4,6 +4,7 @@
     <list default="true" id="215daf52-3296-446c-a78e-07e59d9bfb7d" name="Default" comment="" />
     <ignored path="WP_ProBarranquilla.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,152 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="WP_ProBarranquilla" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-188.3077">
+              <caret line="288" column="43" selection-start-line="288" selection-start-column="43" selection-end-line="288" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/css/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slider.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/slider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.076923">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.692307">
+              <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.2495275">
+              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <folding>
+                <marker date="1515655690305" expanded="true" signature="3024:3278" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="3097:3230" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="3530:5871" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="3588:4086" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="3644:4054" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="3743:4018" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="3890:3981" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="4145:4676" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="4201:4644" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="4302:4608" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="4449:4571" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="4735:5254" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="4791:5222" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="4889:5186" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="5036:5149" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="5313:5844" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="5369:5812" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="5467:5776" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="5614:5739" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="5990:6368" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="6047:6341" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="6113:6238" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="6664:8181" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="6771:6954" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="6822:6923" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="6997:8154" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="7049:8123" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="7107:8088" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="7247:8049" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="7310:8006" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="7435:7638" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="7762:7960" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="8576:9586" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="8613:8740" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="8643:8728" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="8769:9360" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="8795:9349" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="8831:9334" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="8872:9315" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="8920:9292" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="8971:9183" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="9398:9578" placeholder="..." />
+                <marker date="1515655690305" expanded="true" signature="9428:9566" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/probarranquilla/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/probarranquilla/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/probarranquilla/page.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -24,6 +169,9 @@
   </component>
   <component name="NamedScopeManager">
     <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -55,8 +203,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -89,6 +237,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP_ProBarranquilla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP_ProBarranquilla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP_ProBarranquilla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WP_ProBarranquilla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="probarranquilla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -96,8 +284,34 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/probarranquilla" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="215daf52-3296-446c-a78e-07e59d9bfb7d" name="Default" comment="" />
@@ -111,24 +325,33 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38031915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -136,5 +359,123 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.076923">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307">
+          <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-188.3077">
+          <caret line="288" column="43" selection-start-line="288" selection-start-column="43" selection-end-line="288" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/probarranquilla/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.2495275">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding>
+            <marker date="1515655690305" expanded="true" signature="3024:3278" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="3097:3230" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="3530:5871" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="3588:4086" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="3644:4054" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="3743:4018" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="3890:3981" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="4145:4676" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="4201:4644" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="4302:4608" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="4449:4571" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="4735:5254" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="4791:5222" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="4889:5186" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="5036:5149" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="5313:5844" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="5369:5812" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="5467:5776" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="5614:5739" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="5990:6368" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="6047:6341" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="6113:6238" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="6664:8181" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="6771:6954" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="6822:6923" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="6997:8154" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="7049:8123" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="7107:8088" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="7247:8049" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="7310:8006" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="7435:7638" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="7762:7960" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="8576:9586" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="8613:8740" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="8643:8728" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="8769:9360" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="8795:9349" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="8831:9334" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="8872:9315" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="8920:9292" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="8971:9183" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="9398:9578" placeholder="..." />
+            <marker date="1515655690305" expanded="true" signature="9428:9566" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
