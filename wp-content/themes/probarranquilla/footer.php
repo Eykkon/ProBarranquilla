@@ -13,20 +13,8 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="widget widget_links fix">
-                        <h3 class="widget-title">Miembros de</h3>
-                        <ul class="site_map_links">
-                            <li><a href="#">Waipa</a></li>
-                        </ul>
-                        <!--
-                        <ul class="page-links">
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">News</a></li>
-                            <li><a href="#">Projects</a></li>
-                            <li><a href="#">Services</a></li>
-                        </ul>
--->
-                    </div>
+                        <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('Miembros') ) : endif; ?>
+
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="widget">
@@ -39,14 +27,9 @@
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="widget">
-                        <h3 class="widget-title">Rankings</h3>
-                        <ul class="site_map_links">
-                            <li><a href="#">Link a página web de ranking 1</a></li>
-                            <li><a href="#">Link a página web de ranking 2</a></li>
-                            <li><a href="#">Link a página web de ranking 3</a></li>
-                        </ul>
-
+                        <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('Ranking') ) : endif; ?>
                     </div>
+
                 </div>
             </div>
         </div>

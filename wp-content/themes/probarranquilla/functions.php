@@ -24,19 +24,19 @@ register_sidebar(array(
 
 register_sidebar(array(
     'name' => 'Miembros',
-    'before_widget' => '<div class="panel-group" id="accordion">',
+    'before_widget' => '<div class="widget widget_links fix">',
     'after_widget' => '</div>',
-    'before_title' => '<h4 class="panel-title">',
-    'after_title' => '</h4>',
+    'before_title' => '<h3 class="widget-title">',
+    'after_title' => '</h3>',
 
 ));
 
 register_sidebar(array(
     'name' => 'Ranking',
-    'before_widget' => '<div class="panel-group" id="accordion">',
+    'before_widget' => '<div class="widget widget_links fix">',
     'after_widget' => '</div>',
-    'before_title' => '<h4 class="panel-title">',
-    'after_title' => '</h4>',
+    'before_title' => '<h3 class="widget-title">',
+    'after_title' => '</h3>',
 
 ));
 
